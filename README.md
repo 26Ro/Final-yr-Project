@@ -1,31 +1,32 @@
-⚡ Smart Grid Management - Real-Time Monitoring and Predictive Maintenance
-Welcome to the Smart Grid Management system — an IoT and AI-based solution for real-time grid monitoring, predictive maintenance, and intelligent fault detection.
+# Smart Grid Management: AI-Powered Predictive Maintenance and Demand Forecasting
+# 📚 Project Overview
+Smart Grid Management is an IoT and AI-powered solution for real-time monitoring, fault detection, predictive maintenance, and demand forecasting of smart grid equipment.
+The system collects live data, detects anomalies, predicts equipment failures, and forecasts energy demand trends to ensure grid reliability and operational efficiency.
+# 🚀 Key Features
+🔥 Real-time temperature and voltage monitoring
 
-🚀 Project Overview
-This project aims to develop a real-time monitoring and predictive maintenance system for smart grid equipment. By integrating thermal and electrical sensors with IoT modules and deploying machine learning algorithms, the system can detect faults, predict failures, and optimize grid performance proactively.
+🛡️ Early fault detection using machine learning models
 
-🛠️ Key Features
-Real-time temperature and voltage monitoring using ESP32 and MLX90416 sensor.
+📈 Predictive maintenance alerts based on analytics
 
-Data logging via Google Apps Script into Google Sheets.
+🔮 Demand forecasting using AI-driven models
 
-Predictive maintenance algorithms trained on collected sensor data.
+📊 Interactive dashboards for live visualization (Streamlit & Power BI)
 
-Fault detection and classification using Machine Learning models.
+☁️ Cloud-based data logging using Google Apps Script
 
-Interactive dashboards using Power BI and Streamlit.
+📂 Data storage in Google Sheets for easy cloud integration
+# 📟 Hardware Setup
+Connect the MLX90416 sensor to the ESP32 via I2C communication.
 
-Live visualization of system health and predictive insights.
+ # 🌐 Live Demo
+ https://app-application-emf7zgf4rzh9mcetbeid3p.streamlit.app/ 
+ 
+ # ✨ Acknowledgements
+ We sincerely thank our project guide and mentors for their continuous support and valuable insights throughout the development of this project. We also acknowledge the open-source communities and tools that made this work possible.
 
-📈 Technologies Used
-Hardware: ESP32, MLX90416 Thermal Sensor, Voltage Sensor.
+  
 
-Software: Streamlit, Power BI, Google Apps Script.
 
-Programming: Python, JavaScript (for Apps Script).
 
-Data Science: Pandas, Scikit-Learn, Matplotlib, Streamlit Cloud Deployment.
-
-🌐 Live Demo
-App URL (optional):
-https://smart-grid-management.streamlit.app
+ 
