@@ -11,7 +11,7 @@ The system collects live data, detects anomalies, predicts equipment failures, a
 
 🔮 Demand forecasting using AI-driven models
 
-📊 Interactive dashboards for live visualization (Streamlit & Power BI)
+📊 Interactive dashboards for live visualization (Streamlit)
 
 ☁️ Cloud-based data logging using Google Apps Script
 
